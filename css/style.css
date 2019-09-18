@@ -7647,7 +7647,7 @@ body.okayNav-loaded {
   .navbar-collapse.collapse {
     display: block !important;
     height: auto !important;
-    padding-bottom: 0;
+    padding: 0px 10px;
     overflow: visible !important;
   }
 
