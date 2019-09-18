@@ -6014,6 +6014,7 @@ body.no-sidebar .sidebar {
 .archive-list,
 .tag-list {
   line-height: 1.75;
+  list-style: none;
 }
 
 .category-list li:before,
