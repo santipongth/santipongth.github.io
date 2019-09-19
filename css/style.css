@@ -6516,7 +6516,10 @@ body.no-sidebar .sidebar {
   display: inline-block;
   vertical-align: top;
 }
-.marked-body .box-entry div:nth-child(2){
+.marked-body .box-entry div:nth-child(2) {
+  margin-left: 30px;
+}
+.marked-body .box-entry div:nth-child(3) {
   margin-left: 30px;
 }
 
